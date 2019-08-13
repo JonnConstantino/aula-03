@@ -17,3 +17,4 @@ Divida seu trabalho em pequenos problemas,resolva-os e teste-os. Somente após i
 No ramo master estará somente o código validado e funcional. Novas funcionalidades ou correções de bugs devem ser feitas em ramos separados. Isso facilita o trabalho colaborativo.
 
 1. https://git-school.github.io/visualizing-git
+2. https://learngitbranching.js.org/
